@@ -5,6 +5,10 @@ The default Dark+ theme, using Material's color palette but darker, and other im
 ## Installation
 
 -   clone the repo
--   vsce package
+-   cd <repo name>
+
+```bash
+vsce package
+```
 
 Now you can install the vsxi extension from vscode to start using the theme.
